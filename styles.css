@@ -42,7 +42,7 @@ h1 {
 }
 
 body {
-  background-image: url('media/bg.jpeg');
+  background-image: url('../media/bg.jpeg');
   background-color: beige;
   background-repeat: no-repeat;
   background-size: cover;
